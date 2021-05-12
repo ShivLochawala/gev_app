@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724403692188",
+    "project_id": "gev-project",
+    "storage_bucket": "gev-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724403692188:android:bc5ac1b7549fe1f30bc359",
+        "android_client_info": {
+          "package_name": "com.example.gev_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724403692188-38hkci073vc9gmpqv5l0pnfgem0n5ip8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5mPCfmfJvD_G-sbu4-iS01udru-J4lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724403692188-38hkci073vc9gmpqv5l0pnfgem0n5ip8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
